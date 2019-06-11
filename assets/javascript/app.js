@@ -8,7 +8,7 @@ $(document).ready(function(){
 
     //the topic for this app will be rappers 
     var topicArray = ["kanye west", "tyler the creator", "asap rocky", "jay z", "mac miller", "kendrick lamar", "travis scott",
-                        "kid cudi"];
+                        "kid cudi", "snoop dog"];
 
 
     function renderScreen() {
